@@ -1,8 +1,3 @@
-# Crop-Yield-Prediction
-Certainly! Here's a README template for your GitHub project on Crop Yield Prediction Using Random Forest Algorithm:
-
----
-
 # Crop Yield Prediction Using Random Forest Algorithm
 
 ## Overview
