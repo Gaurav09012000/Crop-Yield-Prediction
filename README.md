@@ -5,8 +5,6 @@ Certainly! Here's a README template for your GitHub project on Crop Yield Predic
 
 # Crop Yield Prediction Using Random Forest Algorithm
 
-![Crop Yield Prediction](crop_yield_image.jpg)
-
 ## Overview
 
 This project focuses on predicting crop yields using the Random Forest algorithm. By leveraging machine learning techniques, particularly Random Forest, we aim to provide accurate predictions of crop yields based on various input features such as weather data, soil quality, and crop type.
