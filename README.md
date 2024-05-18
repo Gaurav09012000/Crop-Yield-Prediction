@@ -23,7 +23,7 @@ This project focuses on predicting crop yields using the Random Forest algorithm
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/crop-yield-prediction.git
+git clone https://github.com/Gaurav09012000/crop-yield-prediction.git
 ```
 
 2. Install the required dependencies:
